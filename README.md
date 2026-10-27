@@ -4,21 +4,21 @@ Cross-platform application icons, logos and build assets for Anubis-Security-Too
 published under `@ai-security-tool/resource`. Existing asset filenames and layouts
 are retained for compatibility.
 
-[Website](https://anubis.locker) · [Wiki](https://github.com/Anubis-Locker/anubis/wiki) · [Desktop](https://github.com/Anubis-Locker/anubis) · [Web](https://github.com/Anubis-Locker/anubis-web)
+[Website](https://anubis.locker) · [Wiki](https://github.com/Anubis-Security-Tool/anubis/wiki) · [Desktop](https://github.com/Anubis-Security-Tool/anubis) · [Web](https://github.com/Anubis-Security-Tool/anubis-web)
 
 > The new artwork is a source candidate, not confirmation of an updated installed
 > client or a newly published resource package.
 
 ## Package and source status
 
-The published `@ai-security-tool/resource@2.2.2` package and the newer branding
-source candidate are distinct. The source candidate contains 47 generated
-resource files across the `build`, `build-res` and `res` layouts. The
-`package.json` version remains `2.2.2`; it does not mean that this newer artwork
-has been published in that package. The asset descriptions below refer to the
-source candidate, not a verified inventory of the published package.
+`@ai-security-tool/resource@2.2.3` is the release candidate for the branding
+assets from source commit `7ee004769d437e7f17c85a45cf561ce54b2122d0`.
+It contains the same 47 generated resource files across the `build`, `build-res`
+and `res` layouts, without artwork changes. The asset descriptions below refer
+to this candidate, not a verified inventory of an earlier `2.2.2` package.
+The version in `package.json` alone does not establish registry publication.
 
-The canonical product documentation is the [Anubis Wiki](https://github.com/Anubis-Locker/anubis/wiki).
+The canonical product documentation is the [Anubis Wiki](https://github.com/Anubis-Security-Tool/anubis/wiki).
 These resources do not establish that native bootstrap, an installed client
 update or a release has been completed.
 
